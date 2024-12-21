@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem vindo 👋
 
 <!--
 **L-tran18/L-tran18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
